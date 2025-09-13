@@ -1,4 +1,4 @@
-# :woman_technologist_tone1: Breno Silva
+# 👨🏽‍💻 Breno Silva
 
 **`Desenvolvedor FullStack`**
 
@@ -25,7 +25,7 @@ Olá! Meu nome é Breno Silva, sou estudante de Sistemas de Informação na FIAP
 
 ---
 
-### :robot: Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -86,7 +86,7 @@ Olá! Meu nome é Breno Silva, sou estudante de Sistemas de Informação na FIAP
 <br/>
 <br/>
 
-### :bar_chart: Estatísticas
+### 📊 Estatísticas
 
 <p>
   <img 
