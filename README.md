@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá! Meu nome é Breno Silva, sou estudante de Sistemas de Informação na FIAP e tenho uma grande paixão por tecnologia. No meu dia a dia, gosto de explorar novas ideias, desenvolver projetos pessoais e acadêmicos, e compartilhar um pouco desse processo. Além do GitHub, também futuramente irei produzir conteúdos no YouTube"[BeenDev](https://www.youtube.com/channel/UCytnuxkmvdUwMnj0aodZh7g)", onde irei publicar meus projetos e aprendizados, e no Instagram, no perfil "[brenosilva.v](https://www.instagram.com/brenosilva.v/?__pwa=1#)", onde mostro momentos da minha rotina, tanto profissional quanto pessoal.
+Olá! Meu nome é Breno Silva, sou estudante de Sistemas de Informação e Engenharia De Software e tenho uma grande paixão por tecnologia. No meu dia a dia, gosto de explorar novas ideias, desenvolver projetos pessoais e acadêmicos, e compartilhar um pouco desse processo. Além do GitHub, também futuramente irei produzir conteúdos no YouTube"[BeenDev](https://www.youtube.com/channel/UCytnuxkmvdUwMnj0aodZh7g)", onde irei publicar meus projetos e aprendizados, e no Instagram, no perfil "[brenosilva.v](https://www.instagram.com/brenosilva.v/?__pwa=1#)", onde mostro momentos da minha rotina, tanto profissional quanto pessoal.
 
 <p align="left">
     <a href="https://www.youtube.com/channel/UCytnuxkmvdUwMnj0aodZh7g">
