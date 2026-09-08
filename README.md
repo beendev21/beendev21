@@ -1,9 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Breno Silva</h1>
-
 <p align="center">
   💻 Estudante de Engenharia de Software | 🌍 Apaixonado por Tecnologia
 </p><br><br>
-
 ## 🚀 Linguagens de Programação
 [![My Skills](https://skillicons.dev/icons?i=java,python,javascript,c,php)](https://skillicons.dev)<br><br>
 
