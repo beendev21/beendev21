@@ -1,19 +1,46 @@
-<h1 align="center">👋 Olá, eu sou Breno Silva</h1>
+
+<h1 align="center">👋 Olá, eu sou Breno Silva!</h1>
 
 <p align="center">
-  💻 Estudante de Engenharia de Software | 🌍 Apaixonado por Tecnologia
-</p><br><br>
+  🎓 Estudante de Engenharia de Software | 📊 Dados & Analytics | 💻 Desenvolvimento de Software
+</p>
 
+<p align="center">
+  Apaixonado por tecnologia, desenvolvimento de soluções e análise de dados.
+  Tenho experiência com desenvolvimento, automação e integração de sistemas,
+  com foco em transformar dados em informações que geram valor.
+</p>
+
+<br>
 
 ## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,)](https://skillicons.dev)<br><br>
 
-## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,mysql,git,github)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=python,java,js)](https://skillicons.dev)
+
+<br>
+
+## 📊 Dados & Tecnologias
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,redis)](https://skillicons.dev)
+
+**Python • SQL • pandas • Power BI • Excel • ETL**
+
+<br>
+
+## 🛠️ Ferramentas
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
+
+<br>
 
 ## 📫 Contato
 
-[![Gmail Badge](https://img.shields.io/badge/-{brenosilvavalecontato@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{brenosilvavalecontato@gmail.com})](mailto:{brenosilvavalecontato@gmail.com})
-[![Linkedin: Breno](https://img.shields.io/badge/-brenosilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devellenias/)](https://www.linkedin.com/in/brenosilvavale/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenosilvavale/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:brenosilvavalecontato@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-181717?style=flat-square&logo=github&logoColor=white)](https://beendev21.github.io/PortfolioBrenoDev)
 
-Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>
+<br>
+
+<p align="center">
+  🚀 Sempre aprendendo, desenvolvendo e explorando novas tecnologias.
+</p>
